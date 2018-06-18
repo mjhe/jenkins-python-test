@@ -26,3 +26,4 @@ for bucket in s3client.buckets.all():
     print(bucket.name)
 
 data = open('test.txt', 'rb')
+
