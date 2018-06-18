@@ -1,4 +1,4 @@
-from python
+FROM python
 
 COPY . .
 
